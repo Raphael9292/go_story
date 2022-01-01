@@ -6,4 +6,4 @@
 
 ### ENV
 * intellij + Go
-* Go ver: 1.16.7
+* Go ver: 1.16.12
