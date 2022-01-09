@@ -43,8 +43,9 @@ func main() {
 	fmt.Println("dcl:", t)
 
 	//슬라이스는 다차원 데이터를 구성할 수도 있습니다 다차원 배열과 다르게 다중 슬라이스의 내부 슬라이스들은 가변적 길이를 가질 수 있습니다.
-	twoD := make([][]int, 3)
-	for i := 0; i < 3; i++ {
+	//헷갈리니? i랑 j 위치를 잘봤어야지..
+	twoD := make([][]int, 4)
+	for i := 0; i < 4; i++ {
 		innerLen := i + 1
 		twoD[i] = make([]int, innerLen)
 		for j := 0; j < innerLen; j++ {
