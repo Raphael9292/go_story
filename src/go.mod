@@ -1,3 +1,3 @@
-module go_story1
+module go_default
 
 go 1.16
