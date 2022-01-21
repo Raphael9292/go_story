@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="9. maps.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="go_default" />
+    <working_directory value="$PROJECT_DIR$/src" />
+    <kind value="FILE" />
+    <package value="go_story1" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/src/9. maps.go" />
+    <method v="2" />
+  </configuration>
+</component>
