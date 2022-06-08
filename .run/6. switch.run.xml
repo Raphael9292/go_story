@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="6. switch" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="go_default" />
+    <working_directory value="$PROJECT_DIR$/src/go_by_example" />
+    <kind value="FILE" />
+    <package value="go_default" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/src/go_by_example/6. switch.go" />
+    <method v="2" />
+  </configuration>
+</component>
