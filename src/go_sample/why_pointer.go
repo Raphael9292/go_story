@@ -9,6 +9,7 @@ type Data struct {
 
 func ChangeDataPointer(arg *Data) { // 매개변수로 Data pointer를 받는다
 	arg.value = 999 // arg 데이터를 변경한다
+	//(*arg).value = 999 와 같은말
 	arg.data[100] = 999
 }
 
