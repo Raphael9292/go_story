@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="why_pointer.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="go_default" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <package value="go_sample" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/src/go_sample/why_pointer.go" />
+    <method v="2" />
+  </configuration>
+</component>
